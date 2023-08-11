@@ -1,0 +1,32 @@
+.contact-info,
+.contact-form {
+  display: flex;
+  justify-content: space-between;
+  gap: 124px;
+  margin: 48px 0;
+}
+
+.contact-info div {
+  width: 634px;
+}
+
+.contact-info p {
+  margin-bottom: 54px;
+
+  font-size: 16px;
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+  width: 635px;
+}
+
+.contact-form form button {
+  width: 200px;
+  margin: 24px 0 108px 0;
+}
+
+.message-area {
+  height: 96px;
+}
